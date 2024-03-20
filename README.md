@@ -1,5 +1,12 @@
 ### Hi there 👋
-🥳 この機能は後で追加します
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=23cm0120" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23cm0120&layout=compact" />
+</a>
+
+
 <!--
 **23cm0120/23cm0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
