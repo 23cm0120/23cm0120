@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🥳 この機能は後で追加します
 <!--
 **23cm0120/23cm0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
